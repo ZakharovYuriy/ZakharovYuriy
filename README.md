@@ -3,10 +3,10 @@ I am a Bachelor of Robotics and mechatronics, a graduate of [Bauman Moscow State
 And also a graduate of the course developer of C++ [Yandex Practicum](https://practicum.yandex.ru/cpp/).<br />
 <br />
 ## My skills:
-| **Languages** | **Pogamming**    |   **Tools**   | **Embedded**    |    **CAD**        | **DevOps**           | **Database**    |
+| **Languages** | **Programming**  |   **Tools**   | **Embedded**    |    **CAD**        | **DevOps**           | **Database**    |
 |---------------|------------------|---------------|-----------------|-------------------|----------------------|-----------------|
 | C++ 17        | Algorithms       | Serialization | STM32 Cortex M3 | Altium Designer   | Docker               | MySQL           |
-| C             | Debagging        | CMake         | AVR             | MATLAB            | Kubernetes           | PostgreSQL      |
+| C             | Debugging        | CMake         | AVR             | MATLAB            | Kubernetes           | PostgreSQL      |
 | Assembler     | Unit testing     | ANTLR         | PIC             | Simulink          | Packer               | MongoDB         |
 | Python        | OOP              | Interpreters  | ESP             | P-CAD             | Terraform            | ClickHouse      |
 | SQL           | UML diagrams     | Protobuf      | Arduino         | SolidWorks        | Yandex Compute Cloud | Yandex Database |
